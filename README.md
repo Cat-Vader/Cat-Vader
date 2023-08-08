@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cat-Vader
-- 👀 I’m interested in ...development and cybersecurity
-- 🌱 I’m currently learning everything pertaining to computer science
-- 💞️ I’m looking to collaborate on ...development and cybersecurity
-- 📫 How to reach me ...hit me up at twitter
+- 👀 I’m interested in ...software development, DevOps & CloudOps
+- 🌱 I’m currently learning & Building CloudOps and AI apps
+- 💞️ I’m looking to collaborate on ...AI  Powered Applications, Cloud Infrastracture Deployment & Management
+- 📫 How to reach me ...hit me up at twitter, WhatsApp (+254757363543)
 
 <!---
 Cat-Vader/Cat-Vader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
